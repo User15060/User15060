@@ -24,5 +24,3 @@ user15060@root:~$ while \[ true \]; do hack || cry; done
 <a href="http://www.github.com/User15060"><img src="https://github-readme-stats.vercel.app/api?username=User15060&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=3382ed&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="User15060's GitHub stats" /></a>
 
 <a href="http://www.github.com/User15060"><img src="https://github-readme-streak-stats.herokuapp.com/?user=User15060&stroke=3382ed&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=3382ed&currStreakLabel=14b8a6&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
-
-<a href="http://www.github.com/User15060"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=User15060&bg_color=1c1917&color=3382ed&line=ef4444&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

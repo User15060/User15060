@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is User15060
 =================================================================================================================================
-
+First-year Bachelor's student
 user15060@root:~$ while \[ true \]; do hack || cry; done
 
 * ✉️  You can contact me at [0xUser15060@protonmail.com](mailto:0xUser15060@protonmail.com)
